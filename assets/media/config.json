@@ -1,0 +1,1 @@
+{"importBase":"import","nativeBase":"native","name":"media","deps":["main"],"uuids":["06vT1+y7dKzJgsFj8zL4zF","3dd/+rSylHmKrwBksw9hDu","6fJPOGHyBJYbVBNM2MGWtA"],"paths":{"0":["not_move",0],"1":["can_move",0],"2":["bgm",0]},"scenes":{},"packs":{},"versions":{"import":[],"native":[]},"redirect":[0,"0",1,"0",2,"0"],"debug":false,"extensionMap":{},"types":["cc.AudioClip"]}
